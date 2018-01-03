@@ -22,6 +22,6 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteballcore": "git+https://github.com/afxok/byteballcore.git#6b71ca06957c0308c68ba1e055d2bc31c0cd5472"
+    "byteballcore": "git+https://github.com/afxok/byteballcore.git"
   }
 }
